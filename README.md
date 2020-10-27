@@ -1,4 +1,4 @@
-![Banner (2)](https://user-images.githubusercontent.com/40464267/96446119-e0790d00-1208-11eb-9dbf-b0560c61b841.png)
+![Banner (2)](https://user-images.githubusercontent.com/40464267/97351037-22e5be00-1889-11eb-8043-b4fba1632162.png)
 
 <p align='center'>
 <a href="https://twitter.com/vikingskullapps"><img height="30" src="https://user-images.githubusercontent.com/40464267/96447243-86c51280-1209-11eb-8fb7-8045988ca3d0.png?raw=true"></a>&nbsp;&nbsp;
