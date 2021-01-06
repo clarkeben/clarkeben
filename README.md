@@ -3,7 +3,6 @@
 <p align='center'>
 <a href="https://twitter.com/vikingskullapps"><img height="30" src="https://user-images.githubusercontent.com/40464267/96447243-86c51280-1209-11eb-8fb7-8045988ca3d0.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/vikingskullapps"><img height="30" src="https://user-images.githubusercontent.com/40464267/96447238-8593e580-1209-11eb-9352-dd2d4dc9de6b.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/clarke-ben"><img height="30" src="https://user-images.githubusercontent.com/40464267/96448253-00a9cb80-120b-11eb-8541-034e0b5d42c5.png?raw=true"></a>
 </p>
 
 
