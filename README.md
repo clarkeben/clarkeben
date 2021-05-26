@@ -13,8 +13,14 @@ I am Ben an iOS developer. I am passionate about the Swift programming language 
 # iOS Projects 🚀
 * [Hangman 🎮](https://github.com/clarkeben/Hangman-Game)
 * [Meme Editor/creator 📱](https://github.com/clarkeben/meme-creator)
+* [Uber Eats UI (UICollectioviewCompositionalLayout) 🍔](https://github.com/clarkeben/Uber-Eats-UI)
 * [Photo editors (Core Graphics) 🎨](https://github.com/clarkeben/Basic-Photo-Editor) 
-* Quoto [WIP 👨🏼‍💻]
+
+### Quoto - Inspirational Quotes & Motivation 🧘‍♀️ 👨🏼‍💻
+
+Now available on the app store, Quoto aims to inspire and motivate users. By using quotes to provide short and snappy bits of motivation with daily reminders it can help support mental growth. All features are currently free, including widgets, daily reminders, audio quotes, and the quote maker. 
+
+[![download-on-the-app-store](https://user-images.githubusercontent.com/40464267/119618349-b456e780-bdfa-11eb-8af4-f1a47206c263.png)](https://apps.apple.com/gb/app/quoto-inspirational-quotes/id1549455648)
 
 **I am always looking for new exciting projects, if you'd like to collaborate please hit me up** 
 
