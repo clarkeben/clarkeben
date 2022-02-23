@@ -22,6 +22,13 @@ Now available on the app store, Quoto aims to inspire and motivate users. By usi
 
 [![download-on-the-app-store](https://user-images.githubusercontent.com/40464267/119618349-b456e780-bdfa-11eb-8af4-f1a47206c263.png)](https://apps.apple.com/gb/app/quoto-inspirational-quotes/id1549455648)
 
+### Muay Thai - Combo Log & Workout Tracker 🥊
+
+Take your Muay Thai training to the next level! Log your combos and track calories burned through workouts. Muay Thai Tracker is the perfect workout and training app - built using SwiftUI.
+
+[![download-on-the-app-store](https://user-images.githubusercontent.com/40464267/119618349-b456e780-bdfa-11eb-8af4-f1a47206c263.png)](https://apps.apple.com/gb/app/muay-thai-training-combos/id1606507775)
+
+
 **I am always looking for new exciting projects, if you'd like to collaborate please hit me up** 
 
 ## Github Stats
