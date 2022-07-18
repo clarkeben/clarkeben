@@ -1,8 +1,8 @@
 ![Banner (1)](https://user-images.githubusercontent.com/40464267/148675919-61c1baeb-6f13-45a4-a2f2-fe1b54ba815a.png)
 
 <p align='center'>
-<a href="https://twitter.com/vikingskullapps"><img height="30" src="https://user-images.githubusercontent.com/40464267/96447243-86c51280-1209-11eb-8fb7-8045988ca3d0.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/vikingskullapps"><img height="30" src="https://user-images.githubusercontent.com/40464267/96447238-8593e580-1209-11eb-9352-dd2d4dc9de6b.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/vikingskullapps"><img height="30" src="https://user-images.githubusercontent.com/40464267/96447243-86c51280-1209-11eb-8fb7-8045988ca3d0.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/vikingskullapps"><img height="30" src="https://user-images.githubusercontent.com/40464267/96447238-8593e580-1209-11eb-9352-dd2d4dc9de6b.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 
