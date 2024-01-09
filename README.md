@@ -11,11 +11,20 @@
 I am Ben an iOS developer. I am passionate about the Swift programming language and SwiftUI. You can find several mini projects listed below. Apart from iOS development I am  interested in Muay Thai, skiing, learning new things and web technologies. 
 
 # iOS Projects 🚀
+
+### Latest iOS Projects ⚡️
+* [Space Traveller Onboarding 🙋‍♂️](https://github.com/clarkeben/SwiftUI-Projects/tree/main/Space%20Traveller%20Onboarding)
+* [Password Validator 🔒](https://github.com/clarkeben/SwiftUI-Projects/tree/main/Password%20Validator)
+* [AI Chat 🤖](https://github.com/clarkeben/SwiftUI-Projects/tree/main/Chat%20AI)
+* [All projects 📋](https://github.com/clarkeben/SwiftUI-Projects) 
+
+### Older iOS Projects 👴
 * [Hangman 🎮](https://github.com/clarkeben/Hangman-Game)
 * [Meme Editor/creator 📱](https://github.com/clarkeben/meme-creator)
 * [Uber Eats UI (UICollectioviewCompositionalLayout) 🍔](https://github.com/clarkeben/Uber-Eats-UI)
 * [Photo editors (Core Graphics) 🎨](https://github.com/clarkeben/Basic-Photo-Editor) 
 
+# Existing Apps 📱
 ### Quoto - Inspirational Quotes & Motivation 🧘‍♀️ 👨🏼‍💻
 
 Now available on the app store, Quoto aims to inspire and motivate users. By using quotes to provide short and snappy bits of motivation with daily reminders it can help support mental growth. All features are currently free, including widgets, daily reminders, audio quotes, and the quote maker. 
